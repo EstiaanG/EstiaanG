@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EstiaanG
-- 👀 I’m interested in Arduino's, JAVA, Robotics and learning
-- 🌱 I’m currently learning all of the above
+- 👀 I’m interested in Engineering, CNC Machining and Java
+- 🌱 I’m currently learning mainly Java as the rest is used in my day to day working environment
 - 💞️ I’m looking to collaborate on nothing yet
 - 📫 How to reach me estiaange@gmail.com
 
